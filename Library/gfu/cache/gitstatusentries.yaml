@@ -1,0 +1,36 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &1
+MonoBehaviour:
+  m_ObjectHideFlags: 61
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 995438498, guid: 68c7e4565cde54155bb78d8e935f1ddb, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  cacheType: 6
+  lastUpdatedAtString: 2020-01-15T17:04:30.317-06:00
+  initializedAtString: 2020-01-15T17:03:39.426-06:00
+  entries:
+  - path: .collabignore
+    fullPath: /Users/wyattchandler/Desktop/GameMod1/.collabignore
+    projectPath: .collabignore
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 5
+  - path: Assets/Materials/New Material.mat
+    fullPath: /Users/wyattchandler/Desktop/GameMod1/Assets/Materials/New Material.mat
+    projectPath: Assets/Materials/New Material.mat
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
+  - path: Assets/Scenes/MiniGame.unity
+    fullPath: /Users/wyattchandler/Desktop/GameMod1/Assets/Scenes/MiniGame.unity
+    projectPath: Assets/Scenes/MiniGame.unity
+    originalPath: 
+    indexStatus: 0
+    workTreeStatus: 3
